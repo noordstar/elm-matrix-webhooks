@@ -1,4 +1,4 @@
-module MatrixWebhooks exposing
+module Matrix.Webhooks exposing
     ( Webhook, toWebhook
     , sendMessage, sendRaw
     , Error(..)
